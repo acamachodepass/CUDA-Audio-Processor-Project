@@ -26,7 +26,7 @@ process_audio() {
 process_audio "Hollow-Body Electric Guitar" "gtr-jazz-3.wav" "modified_gtr-jazz-3.wav"
 process_audio "Plucked/Struck Strings" "bachfugue.wav" "modified_bachfugue.wav"
 process_audio "Distorted Electric Guitar" "gtr-dist-jimi.wav" "modified_gtr-dist-jimi.wav"
-process_audio "Distorted Electric Guitar + Feedback" "gtr-dist-yes.wav" "modified_gtr-dist-yes.wav.wav"
+process_audio "Distorted Electric Guitar + Feedback" "gtr-dist-yes.wav" "modified_gtr-dist-yes.wav"
 process_audio "Harpsichord" "harpsi-cs.wav" "modified_harpsi-cs.wav"
 process_audio "Piano" "pno-cs.wav" "modified_pno-cs.wav"
 
